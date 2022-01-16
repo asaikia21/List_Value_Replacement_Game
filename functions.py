@@ -1,4 +1,4 @@
-#This program will only be used to define the functions
+#This program will only be used to define the functions 
 
 def list_displayer(input_list):
     print("Welcome to the list replacement game.")
